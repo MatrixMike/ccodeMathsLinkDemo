@@ -2,8 +2,9 @@
 // 14 July -2015
 //  #include "/home/mike/lilypad/leddefinitions.h"
 
-int ledarray [] = {6,7,8,9,10,11,12,13}; // 13 is onboard  {2,3,9,10,11,13}
-const int numLEDS =  8; // 4 ;
+int ledarray[] = { 6, 7, 8, 9, 10, 11, 12, 13 };	// 13 is onboard  {2,3,9,10,11,13}
+
+const int numLEDS = 8;		// 4 ;
 //int ledarray [] = {2,3,4,5,6,7,8,9,10,11,12,13};
 // note about = above => arduino IDE enjoys with or without
 // gcc needs the = 
@@ -29,4 +30,3 @@ const int numLEDS =  8; // 4 ;
 // const int numLEDS =  9; // 4 ;
  // 20.07.2015 22:52:52
  // if both ends are made to be the same then a loop can be created 
- 
