@@ -6,7 +6,7 @@
 14.07.2015 09:11:30
 * 
 */
-#include "/home/mike/lilypad/leddefinitions.h"
+#include "leddefinitions.h"
 #include <stdio.h>
 #include "mainsub.h"
 
