@@ -1,7 +1,7 @@
 /*
  * screenDiagonal.c
  * 
- * 
+ * 20.01.2021 12:56:24
  * 
  * 
  */
@@ -11,6 +11,7 @@
 
 #include <stdio.h>
 #include <math.h>
+#include "mainsub.h"
 
 int main(int argc, char **argv)
 {
